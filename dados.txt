@@ -1,0 +1,3 @@
+3;Euclidos;Euclide corp;189.90;120.80
+1;Warframe;Digital Extremes;120.00;2202.00
+2;Helldivers 2;Arrow ;219.90;10000.00
